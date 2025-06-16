@@ -1,0 +1,14 @@
+# Dự án Hệ thống quản lý bán hàng Mỹ Phẩm
+
+## Link thiết kế Figma:
+[Xem thiết kế trên Figma](https://www.figma.com/design/MTbytY1PYAM9DvvGF8PPS1/WEB-M%E1%BB%B8-PH%E1%BA%A8M_-CH%C3%8DNH-TH%E1%BB%A8C?node-id=0-1&t=S96UgFPG16R2iIts-1)
+
+## Mô tả:
+Đây là giao diện thiết kế UI cho hệ thống quản lý bán hàng mỹ phẩm, bao gồm các chức năng như: 
+- Quản lý bán hàng
+- Quản lý sản phẩm
+- Quản lý khách hàng
+- Quản lý nhập hàng
+- Quản lý hàng tồn kho
+- Báo cáo doanh thu theo ngày, tháng, tuần
+Giao diện được thiết kế thân thiện, dễ sử dụng và phù hợp cho quản lý.
